@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Retention Intelligence System (ML + MLOps)
 
 This project demonstrates an **end-to-end Machine Learning + MLOps pipeline** for identifying customers at risk of disengagement using **synthetic data**, **experiment tracking**, **model registry**, and **real-time model serving**.
@@ -174,3 +175,6 @@ Loads the Production model directly from MLflow.
       "churn_probability": 0.27,
       "prediction": 0
     }
+=======
+# churn_mlflow
+>>>>>>> eb18bc0c52496639c7c5386580619f13fc107ed2
